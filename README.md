@@ -1,4 +1,4 @@
-# proj1
+# Yaarit
 
 A new Flutter project.
 
